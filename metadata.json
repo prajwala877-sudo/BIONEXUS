@@ -1,0 +1,8 @@
+{
+  "name": "Remix BioNexus",
+  "description": "Continuous vital signs monitoring and real-time anomaly alerts for captive wildlife across mammals, birds, and reptiles using precision multi-modal telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
